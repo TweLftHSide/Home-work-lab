@@ -1,0 +1,15 @@
+D:\3Kurs\2semestr\Object-oriented programming\lab1\lab1Ex15\lab1Ex15\bin\Debug\net6.0\lab1Ex15.exe
+D:\3Kurs\2semestr\Object-oriented programming\lab1\lab1Ex15\lab1Ex15\bin\Debug\net6.0\lab1Ex15.deps.json
+D:\3Kurs\2semestr\Object-oriented programming\lab1\lab1Ex15\lab1Ex15\bin\Debug\net6.0\lab1Ex15.runtimeconfig.json
+D:\3Kurs\2semestr\Object-oriented programming\lab1\lab1Ex15\lab1Ex15\bin\Debug\net6.0\lab1Ex15.dll
+D:\3Kurs\2semestr\Object-oriented programming\lab1\lab1Ex15\lab1Ex15\bin\Debug\net6.0\lab1Ex15.pdb
+D:\3Kurs\2semestr\Object-oriented programming\lab1\lab1Ex15\lab1Ex15\obj\Debug\net6.0\lab1Ex15.csproj.AssemblyReference.cache
+D:\3Kurs\2semestr\Object-oriented programming\lab1\lab1Ex15\lab1Ex15\obj\Debug\net6.0\lab1Ex15.GeneratedMSBuildEditorConfig.editorconfig
+D:\3Kurs\2semestr\Object-oriented programming\lab1\lab1Ex15\lab1Ex15\obj\Debug\net6.0\lab1Ex15.AssemblyInfoInputs.cache
+D:\3Kurs\2semestr\Object-oriented programming\lab1\lab1Ex15\lab1Ex15\obj\Debug\net6.0\lab1Ex15.AssemblyInfo.cs
+D:\3Kurs\2semestr\Object-oriented programming\lab1\lab1Ex15\lab1Ex15\obj\Debug\net6.0\lab1Ex15.csproj.CoreCompileInputs.cache
+D:\3Kurs\2semestr\Object-oriented programming\lab1\lab1Ex15\lab1Ex15\obj\Debug\net6.0\lab1Ex15.dll
+D:\3Kurs\2semestr\Object-oriented programming\lab1\lab1Ex15\lab1Ex15\obj\Debug\net6.0\refint\lab1Ex15.dll
+D:\3Kurs\2semestr\Object-oriented programming\lab1\lab1Ex15\lab1Ex15\obj\Debug\net6.0\lab1Ex15.pdb
+D:\3Kurs\2semestr\Object-oriented programming\lab1\lab1Ex15\lab1Ex15\obj\Debug\net6.0\lab1Ex15.genruntimeconfig.cache
+D:\3Kurs\2semestr\Object-oriented programming\lab1\lab1Ex15\lab1Ex15\obj\Debug\net6.0\ref\lab1Ex15.dll
