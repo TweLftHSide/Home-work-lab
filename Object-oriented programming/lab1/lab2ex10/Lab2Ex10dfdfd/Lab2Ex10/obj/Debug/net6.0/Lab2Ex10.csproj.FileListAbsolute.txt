@@ -1,0 +1,15 @@
+D:\3Kurs\2semestr\Object-oriented programming\lab1\lab2ex10\Lab2Ex10dfdfd\Lab2Ex10\bin\Debug\net6.0\Lab2Ex10.exe
+D:\3Kurs\2semestr\Object-oriented programming\lab1\lab2ex10\Lab2Ex10dfdfd\Lab2Ex10\bin\Debug\net6.0\Lab2Ex10.deps.json
+D:\3Kurs\2semestr\Object-oriented programming\lab1\lab2ex10\Lab2Ex10dfdfd\Lab2Ex10\bin\Debug\net6.0\Lab2Ex10.runtimeconfig.json
+D:\3Kurs\2semestr\Object-oriented programming\lab1\lab2ex10\Lab2Ex10dfdfd\Lab2Ex10\bin\Debug\net6.0\Lab2Ex10.dll
+D:\3Kurs\2semestr\Object-oriented programming\lab1\lab2ex10\Lab2Ex10dfdfd\Lab2Ex10\bin\Debug\net6.0\Lab2Ex10.pdb
+D:\3Kurs\2semestr\Object-oriented programming\lab1\lab2ex10\Lab2Ex10dfdfd\Lab2Ex10\obj\Debug\net6.0\Lab2Ex10.csproj.AssemblyReference.cache
+D:\3Kurs\2semestr\Object-oriented programming\lab1\lab2ex10\Lab2Ex10dfdfd\Lab2Ex10\obj\Debug\net6.0\Lab2Ex10.GeneratedMSBuildEditorConfig.editorconfig
+D:\3Kurs\2semestr\Object-oriented programming\lab1\lab2ex10\Lab2Ex10dfdfd\Lab2Ex10\obj\Debug\net6.0\Lab2Ex10.AssemblyInfoInputs.cache
+D:\3Kurs\2semestr\Object-oriented programming\lab1\lab2ex10\Lab2Ex10dfdfd\Lab2Ex10\obj\Debug\net6.0\Lab2Ex10.AssemblyInfo.cs
+D:\3Kurs\2semestr\Object-oriented programming\lab1\lab2ex10\Lab2Ex10dfdfd\Lab2Ex10\obj\Debug\net6.0\Lab2Ex10.csproj.CoreCompileInputs.cache
+D:\3Kurs\2semestr\Object-oriented programming\lab1\lab2ex10\Lab2Ex10dfdfd\Lab2Ex10\obj\Debug\net6.0\Lab2Ex10.dll
+D:\3Kurs\2semestr\Object-oriented programming\lab1\lab2ex10\Lab2Ex10dfdfd\Lab2Ex10\obj\Debug\net6.0\refint\Lab2Ex10.dll
+D:\3Kurs\2semestr\Object-oriented programming\lab1\lab2ex10\Lab2Ex10dfdfd\Lab2Ex10\obj\Debug\net6.0\Lab2Ex10.pdb
+D:\3Kurs\2semestr\Object-oriented programming\lab1\lab2ex10\Lab2Ex10dfdfd\Lab2Ex10\obj\Debug\net6.0\Lab2Ex10.genruntimeconfig.cache
+D:\3Kurs\2semestr\Object-oriented programming\lab1\lab2ex10\Lab2Ex10dfdfd\Lab2Ex10\obj\Debug\net6.0\ref\Lab2Ex10.dll
